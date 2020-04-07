@@ -40,6 +40,7 @@ SQL Interface
   - SPLIT
     - Manually specifying the outliers and inliers for your DIFF query can be a pain for users, especially if the inlier and outlier subqueries are quite redundant.To simplify, SPLIT segments a single relation in SQL into two distinct relations.
 
+- ![Example query](./images/example-diff.png)
 
 Reference Docs
 
